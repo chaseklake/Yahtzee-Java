@@ -1,5 +1,4 @@
 # Yahtzee-Java
-## Summary:
 Practicing my Java skills by programming a simple Yahtzee game for the console.
 
 ## Objects:
